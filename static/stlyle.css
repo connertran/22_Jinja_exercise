@@ -1,0 +1,9 @@
+.madlibs-form{
+  display: flex;
+  flex-direction: column;
+
+}
+.input-div{
+  margin: 10px 0;
+
+}
